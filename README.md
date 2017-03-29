@@ -26,5 +26,11 @@ Desired Characteristics:
 
 
 Design Considerations:
-- Generating types of traffic
+- Generating which types of traffic
+- Creating traffic profiles
+- Bot framework
+- ISP usage caps
+- Traffic leakage
+- Malleability of websites
+- Deployment
 
